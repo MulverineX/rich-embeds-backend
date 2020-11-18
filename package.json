@@ -1,0 +1,11 @@
+{
+  "name": "rich-embeds-backend",
+  "version": "0.0.1",
+  "main": "api/index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.1"
+  },
+  "author": "MulverineX",
+  "license": "CC0-1.0"
+}
